@@ -1,4 +1,4 @@
-### mapping更新策略说明
+### remapping.sh
 * 迁移index至临时index
 * 删除index
 * 建立想要更新的mapping
