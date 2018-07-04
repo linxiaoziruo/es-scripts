@@ -1,6 +1,8 @@
 ### remapping.sh
-* 迁移index至临时index
-* 删除index
-* 建立想要更新的mapping
-* 迁移临时Index至Index
-* 删除临时Index
+* 建立新的mapping
+* 迁移原有index至新的index
+* 在新的index上建立一致性别名
+* 删除原有index
+
+
+### addMappingField.sh
