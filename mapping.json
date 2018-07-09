@@ -1,10 +1,5 @@
 {
-  "shop_task": {
-    "properties": {
-      "type_v1": {
-        "type": "string",
-        "index": "not_analyzed"
-      }
-    }
+  "id": {
+    "type": "string"
   }
 }
